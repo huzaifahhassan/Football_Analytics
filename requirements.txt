@@ -1,0 +1,13 @@
+comet_ml
+roboflow
+ultralytics
+opencv-python
+supervision
+scikit-learn
+numpy
+more-itertools
+torch
+transformers
+fastapi
+uvicorn
+umap-learn
